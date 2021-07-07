@@ -1,0 +1,22 @@
+com/guru99/demo/pageobject/IngresoPageObject.java
+ com.guru99.demo.pageobject.IngresoPageObject
+com/guru99/demo/steps/LoginMuktip0leSteps.java
+ com.guru99.demo.steps.LoginMuktip0leSteps
+com/guru99/demo/steps/ReadExcelFile.java
+ com.guru99.demo.steps.ReadExcelFile
+com/guru99/demo/models/Datos.java
+ com.guru99.demo.models.Datos
+com/guru99/demo/steps/WriteExcelFile.java
+ com.guru99.demo.steps.WriteExcelFile
+com/guru99/demo/pageobject/ExcelPageObject.java
+ com.guru99.demo.pageobject.ExcelPageObject
+com/guru99/demo/steps/RegisterSteps.java
+ com.guru99.demo.steps.RegisterSteps
+com/guru99/demo/pageobject/LoginPageObject.java
+ com.guru99.demo.pageobject.LoginPageObject
+com/guru99/demo/pageobject/RegisterPageObject.java
+ com.guru99.demo.pageobject.RegisterPageObject
+com/guru99/demo/steps/LoginSteps.java
+ com.guru99.demo.steps.LoginSteps
+com/guru99/demo/utils/Datos.java
+ com.guru99.demo.utils.Datos
